@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel Oyekanmi
+- 👋 Hi, I’m Emmanuel Oyekanmi.
 - 👀 I’m interested in machine learning with a biase for NLP.
 - 🌱 I’m currently learning the basics of deep learning.
 - 💞️ I’m looking to collaborate on projects that apply machine learning to solve real life problems.
