@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Oyekanmi.
-- 👀 I’m interested in machine learning with a biase for NLP.
-- 🌱 I’m currently learning the basics of deep learning.
-- 💞️ I’m looking to collaborate on projects that apply machine learning to solve real life problems.
+- 👀 I'm a Python developer.
+- 🌱 I have worked on machine learning projects.
+- 💞️ I am currently learning how to build web apps with Python and I focus more on the backend development.
 - 📫 How to reach me: hephtech01@gmail.com.
 
 <!---
