@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Emmanuel Oyekanmi.
-- 👀 I'm a Python developer.
-- 🌱 I have worked on machine learning projects.
-- 💞️ I am currently learning how to build web apps with Python and I focus more on the backend development.
-- 📫 How to reach me: hephtech01@gmail.com.
+- 👀 I use python to solve problems.
+- 🌱 I have worked on data science and backend development projects.
+- 💞️ I am currently fine-tuning my skills in data analysis and data science.
+- 📫 How to reach me: emanueloyekanmi@gmail.com (single 'e').
 
 <!---
 hephtechy/hephtechy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
